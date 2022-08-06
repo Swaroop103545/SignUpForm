@@ -17,5 +17,4 @@ https://snack-web-player.s3.us-west-1.amazonaws.com/v2/46/index.html?initialUrl=
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+![image](https://user-images.githubusercontent.com/89529252/183241013-ac642d5e-d23e-4359-96d2-6ed940949254.png)
